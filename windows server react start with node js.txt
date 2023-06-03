@@ -1,0 +1,5 @@
+yarn
+node tmisService.js
+
+if service not start
+#open run and open services.msc and find tmis and start the service

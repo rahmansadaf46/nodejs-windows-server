@@ -1,0 +1,15 @@
+{
+  "name": "tmis",
+  "version": "1.0.0",
+  "description": "tmis-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-windows": "^1.0.0-beta.8"
+  }
+}
